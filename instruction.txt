@@ -1,0 +1,8 @@
+this is a Visual basic script which could be run on windows system.
+for executing it needs a
+1. de.csv in the same phath as the script
+2. a folder which named "en" and has at list one file with csv extension.
+ this folder should not include  any file extension except csv.
+3. double click on the script file run the file and it will produce a new file named "missedphrases.csv"
+4. in result file the name of each file which was in "en" folder is written and after it the phrases 
+which was in the named file and not in de.csv file
